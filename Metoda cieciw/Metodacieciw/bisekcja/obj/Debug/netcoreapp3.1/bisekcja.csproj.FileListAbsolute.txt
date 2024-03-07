@@ -1,0 +1,14 @@
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\bisekcja\bin\Debug\netcoreapp3.1\bisekcja.exe
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\bisekcja\bin\Debug\netcoreapp3.1\bisekcja.deps.json
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\bisekcja\bin\Debug\netcoreapp3.1\bisekcja.runtimeconfig.json
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\bisekcja\bin\Debug\netcoreapp3.1\bisekcja.runtimeconfig.dev.json
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\bisekcja\bin\Debug\netcoreapp3.1\bisekcja.dll
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\bisekcja\bin\Debug\netcoreapp3.1\bisekcja.pdb
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\bisekcja\obj\Debug\netcoreapp3.1\bisekcja.csproj.AssemblyReference.cache
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\bisekcja\obj\Debug\netcoreapp3.1\bisekcja.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\bisekcja\obj\Debug\netcoreapp3.1\bisekcja.AssemblyInfoInputs.cache
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\bisekcja\obj\Debug\netcoreapp3.1\bisekcja.AssemblyInfo.cs
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\bisekcja\obj\Debug\netcoreapp3.1\bisekcja.csproj.CoreCompileInputs.cache
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\bisekcja\obj\Debug\netcoreapp3.1\bisekcja.dll
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\bisekcja\obj\Debug\netcoreapp3.1\bisekcja.pdb
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\bisekcja\obj\Debug\netcoreapp3.1\bisekcja.genruntimeconfig.cache

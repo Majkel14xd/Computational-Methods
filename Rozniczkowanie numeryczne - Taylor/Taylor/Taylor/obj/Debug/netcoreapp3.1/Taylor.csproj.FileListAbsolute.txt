@@ -1,0 +1,14 @@
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Rozniczkowanie numeryczne - Taylor\Taylor\Taylor\bin\Debug\netcoreapp3.1\Taylor.exe
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Rozniczkowanie numeryczne - Taylor\Taylor\Taylor\bin\Debug\netcoreapp3.1\Taylor.deps.json
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Rozniczkowanie numeryczne - Taylor\Taylor\Taylor\bin\Debug\netcoreapp3.1\Taylor.runtimeconfig.json
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Rozniczkowanie numeryczne - Taylor\Taylor\Taylor\bin\Debug\netcoreapp3.1\Taylor.runtimeconfig.dev.json
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Rozniczkowanie numeryczne - Taylor\Taylor\Taylor\bin\Debug\netcoreapp3.1\Taylor.dll
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Rozniczkowanie numeryczne - Taylor\Taylor\Taylor\bin\Debug\netcoreapp3.1\Taylor.pdb
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Rozniczkowanie numeryczne - Taylor\Taylor\Taylor\obj\Debug\netcoreapp3.1\Taylor.csproj.AssemblyReference.cache
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Rozniczkowanie numeryczne - Taylor\Taylor\Taylor\obj\Debug\netcoreapp3.1\Taylor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Rozniczkowanie numeryczne - Taylor\Taylor\Taylor\obj\Debug\netcoreapp3.1\Taylor.AssemblyInfoInputs.cache
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Rozniczkowanie numeryczne - Taylor\Taylor\Taylor\obj\Debug\netcoreapp3.1\Taylor.AssemblyInfo.cs
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Rozniczkowanie numeryczne - Taylor\Taylor\Taylor\obj\Debug\netcoreapp3.1\Taylor.csproj.CoreCompileInputs.cache
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Rozniczkowanie numeryczne - Taylor\Taylor\Taylor\obj\Debug\netcoreapp3.1\Taylor.dll
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Rozniczkowanie numeryczne - Taylor\Taylor\Taylor\obj\Debug\netcoreapp3.1\Taylor.pdb
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Rozniczkowanie numeryczne - Taylor\Taylor\Taylor\obj\Debug\netcoreapp3.1\Taylor.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Micha\Desktop\aproksymacja\aproksymacja\aproksymacja\bin\Debug\netcoreapp3.1\aproksymacja.exe
+C:\Users\Micha\Desktop\aproksymacja\aproksymacja\aproksymacja\bin\Debug\netcoreapp3.1\aproksymacja.deps.json
+C:\Users\Micha\Desktop\aproksymacja\aproksymacja\aproksymacja\bin\Debug\netcoreapp3.1\aproksymacja.runtimeconfig.json
+C:\Users\Micha\Desktop\aproksymacja\aproksymacja\aproksymacja\bin\Debug\netcoreapp3.1\aproksymacja.runtimeconfig.dev.json
+C:\Users\Micha\Desktop\aproksymacja\aproksymacja\aproksymacja\bin\Debug\netcoreapp3.1\aproksymacja.dll
+C:\Users\Micha\Desktop\aproksymacja\aproksymacja\aproksymacja\bin\Debug\netcoreapp3.1\aproksymacja.pdb
+C:\Users\Micha\Desktop\aproksymacja\aproksymacja\aproksymacja\obj\Debug\netcoreapp3.1\aproksymacja.csproj.AssemblyReference.cache
+C:\Users\Micha\Desktop\aproksymacja\aproksymacja\aproksymacja\obj\Debug\netcoreapp3.1\aproksymacja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Micha\Desktop\aproksymacja\aproksymacja\aproksymacja\obj\Debug\netcoreapp3.1\aproksymacja.AssemblyInfoInputs.cache
+C:\Users\Micha\Desktop\aproksymacja\aproksymacja\aproksymacja\obj\Debug\netcoreapp3.1\aproksymacja.AssemblyInfo.cs
+C:\Users\Micha\Desktop\aproksymacja\aproksymacja\aproksymacja\obj\Debug\netcoreapp3.1\aproksymacja.csproj.CoreCompileInputs.cache
+C:\Users\Micha\Desktop\aproksymacja\aproksymacja\aproksymacja\obj\Debug\netcoreapp3.1\aproksymacja.dll
+C:\Users\Micha\Desktop\aproksymacja\aproksymacja\aproksymacja\obj\Debug\netcoreapp3.1\aproksymacja.pdb
+C:\Users\Micha\Desktop\aproksymacja\aproksymacja\aproksymacja\obj\Debug\netcoreapp3.1\aproksymacja.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Interpolacja Lagrange\InterpolacjaLagrange\InterpolacjaLagrange\bin\Debug\netcoreapp3.1\InterpolacjaLagrange.exe
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Interpolacja Lagrange\InterpolacjaLagrange\InterpolacjaLagrange\bin\Debug\netcoreapp3.1\InterpolacjaLagrange.deps.json
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Interpolacja Lagrange\InterpolacjaLagrange\InterpolacjaLagrange\bin\Debug\netcoreapp3.1\InterpolacjaLagrange.runtimeconfig.json
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Interpolacja Lagrange\InterpolacjaLagrange\InterpolacjaLagrange\bin\Debug\netcoreapp3.1\InterpolacjaLagrange.runtimeconfig.dev.json
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Interpolacja Lagrange\InterpolacjaLagrange\InterpolacjaLagrange\bin\Debug\netcoreapp3.1\InterpolacjaLagrange.dll
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Interpolacja Lagrange\InterpolacjaLagrange\InterpolacjaLagrange\bin\Debug\netcoreapp3.1\InterpolacjaLagrange.pdb
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Interpolacja Lagrange\InterpolacjaLagrange\InterpolacjaLagrange\obj\Debug\netcoreapp3.1\InterpolacjaLagrange.csproj.AssemblyReference.cache
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Interpolacja Lagrange\InterpolacjaLagrange\InterpolacjaLagrange\obj\Debug\netcoreapp3.1\InterpolacjaLagrange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Interpolacja Lagrange\InterpolacjaLagrange\InterpolacjaLagrange\obj\Debug\netcoreapp3.1\InterpolacjaLagrange.AssemblyInfoInputs.cache
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Interpolacja Lagrange\InterpolacjaLagrange\InterpolacjaLagrange\obj\Debug\netcoreapp3.1\InterpolacjaLagrange.AssemblyInfo.cs
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Interpolacja Lagrange\InterpolacjaLagrange\InterpolacjaLagrange\obj\Debug\netcoreapp3.1\InterpolacjaLagrange.csproj.CoreCompileInputs.cache
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Interpolacja Lagrange\InterpolacjaLagrange\InterpolacjaLagrange\obj\Debug\netcoreapp3.1\InterpolacjaLagrange.dll
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Interpolacja Lagrange\InterpolacjaLagrange\InterpolacjaLagrange\obj\Debug\netcoreapp3.1\InterpolacjaLagrange.pdb
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Interpolacja Lagrange\InterpolacjaLagrange\InterpolacjaLagrange\obj\Debug\netcoreapp3.1\InterpolacjaLagrange.genruntimeconfig.cache

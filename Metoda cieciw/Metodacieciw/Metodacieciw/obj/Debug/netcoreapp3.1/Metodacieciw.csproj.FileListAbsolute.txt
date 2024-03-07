@@ -1,0 +1,14 @@
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\Metodacieciw\bin\Debug\netcoreapp3.1\Metodacieciw.exe
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\Metodacieciw\bin\Debug\netcoreapp3.1\Metodacieciw.deps.json
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\Metodacieciw\bin\Debug\netcoreapp3.1\Metodacieciw.runtimeconfig.json
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\Metodacieciw\bin\Debug\netcoreapp3.1\Metodacieciw.runtimeconfig.dev.json
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\Metodacieciw\bin\Debug\netcoreapp3.1\Metodacieciw.dll
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\Metodacieciw\bin\Debug\netcoreapp3.1\Metodacieciw.pdb
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\Metodacieciw\obj\Debug\netcoreapp3.1\Metodacieciw.csproj.AssemblyReference.cache
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\Metodacieciw\obj\Debug\netcoreapp3.1\Metodacieciw.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\Metodacieciw\obj\Debug\netcoreapp3.1\Metodacieciw.AssemblyInfoInputs.cache
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\Metodacieciw\obj\Debug\netcoreapp3.1\Metodacieciw.AssemblyInfo.cs
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\Metodacieciw\obj\Debug\netcoreapp3.1\Metodacieciw.csproj.CoreCompileInputs.cache
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\Metodacieciw\obj\Debug\netcoreapp3.1\Metodacieciw.dll
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\Metodacieciw\obj\Debug\netcoreapp3.1\Metodacieciw.pdb
+D:\Dokumenty i studia\Programowanie\Metody Obliczeniowe\Metoda cieciw\Metodacieciw\Metodacieciw\obj\Debug\netcoreapp3.1\Metodacieciw.genruntimeconfig.cache
